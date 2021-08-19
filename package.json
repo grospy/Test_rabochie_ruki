@@ -1,14 +1,10 @@
 {
-	"name": "vue-simple-calendar-sample",
-	"version": "6.0.0-b3",
+	"name": "Shamil's calendar",
+	"version": "1.0",
 	"private": false,
-	"description": "Sample app showing off the vue-simple-calendar component",
-	"author": "richardtallent <richard@tallent.us>",
+	"description": "",
+	"author": "Shamil Karimli",
 	"license": "MIT",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/richardtallent/vue-simple-calendar-sample"
-	},
 	"scripts": {
 		"dev": "vite",
 		"build": "vite build"
